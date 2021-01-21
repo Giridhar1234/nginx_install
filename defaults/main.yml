@@ -1,0 +1,5 @@
+---
+# defaults file for nginx_install
+
+type_of_webserver: Nginx_server
+
